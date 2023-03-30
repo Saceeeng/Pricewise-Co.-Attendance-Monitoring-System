@@ -5,5 +5,5 @@
   <br>Time-out
   <br>Hours rendered
   <br>Hours Left in the corporation
- 
+ <hr>
 <B >By. John Alsace P. Mondoñedo</B>
