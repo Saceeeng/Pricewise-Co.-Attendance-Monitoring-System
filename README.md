@@ -1,6 +1,6 @@
 # Pricewise Co. Attendance Monitoring System
 Attendance Monitoring System for interns of Pricewise Corporation.
-it includes
+<br>it includes
   Time-in
   Time-out
   Hours rendered
