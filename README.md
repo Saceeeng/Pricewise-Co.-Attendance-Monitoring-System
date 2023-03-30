@@ -1,5 +1,5 @@
 <h1>Pricewise Co. Attendance Monitoring System</h1>
-Attendance Monitoring System for interns of Pricewise Corporation.
+<h3>Attendance Monitoring System for interns of Pricewise Corporation.</h3>
 <br>it includes
   <br>Time-in
   <br>Time-out
