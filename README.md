@@ -6,4 +6,4 @@ Attendance Monitoring System for interns of Pricewise Corporation.
   <br>Hours rendered
   <br>Hours Left in the corporation
  
-By. John Alsace P. Mondoñedo
+<marquee>By. John Alsace P. Mondoñedo</marquee>
