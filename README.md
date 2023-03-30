@@ -7,3 +7,4 @@
   <br>Hours Left in the corporation
  <hr>
 <B >By. John Alsace P. Mondoñedo</B>
+<img src=" " width="100px" height="100px">
